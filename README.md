@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, my name is Daniel Carvalho 👋
 
-<!--
-**danircarv/danircarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me
 
-Here are some ideas to get you started:
+I'm a Fullstack Web developer, and i'm currently learning to develop web applications using Javascript and some frameworks such as React at [Rocketseat](https://rocketseat.com.br/) and I'm a student of Analisys and Development of Sistems at [UNIFOR](https://www.unifor.br)
+I aspire to always get better and to keep studiyng to be a better developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current State
+- Main language: `Javascript`
+- Backend: `Node.js`
+- Frontend: `React.js` , `HTML5`, `CSS3`, `Javascript`
+- Version code control: `Git & Github`
+- Tools: `VsCode`, `Markdown`
+
+#### Contacts
+- Email: daniecomdrop@gmail.com
+- Linkedin: https://www.linkedin.com/in/daniel-rodrigues-895206270/
