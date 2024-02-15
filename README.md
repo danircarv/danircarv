@@ -2,7 +2,7 @@
 
 #### About Me
 
-I'm a Fullstack Web developer, and i'm currently learning to develop web applications using Javascript and some frameworks such as React at [Rocketseat](https://rocketseat.com.br/) and I'm a student of Analisys and Development of Sistems at [UNIFOR](https://www.unifor.br)
+I'm a Fullstack Web developer, and i'm currently learning to develop web applications using Javascript and some frameworks such as React at [Rocketseat](https://rocketseat.com.br/) and I'm a student of Computer Science at [UNIFOR](https://www.unifor.br)
 I aspire to always get better and to keep studiyng to be a better developer
 
 #### Current State
