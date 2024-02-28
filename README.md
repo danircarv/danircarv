@@ -13,5 +13,5 @@ I aspire to always get better and to keep studiyng to be a better developer
 - Tools: `VsCode`, `Markdown`
 
 #### Contacts
-- Email: daniecomdrop@gmail.com
-- Linkedin: https://www.linkedin.com/in/daniel-rodrigues-895206270/
+- Email: daniel.r.carv@gmail.com
+- Linkedin: https://www.linkedin.com/in/danielrcarv/
