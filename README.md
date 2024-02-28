@@ -6,8 +6,8 @@ I'm a Fullstack Web developer, and i'm currently learning to develop web applica
 I aspire to always get better and to keep studiyng to be a better developer
 
 #### Current State
-- Main language: `Javascript`
-- Backend: `Node.js`
+- Main language: `Javascript`, `Python`
+- Backend: `Node.js`,`Flask`
 - Frontend: `React.js` , `HTML5`, `CSS3`, `Javascript`
 - Version code control: `Git & Github`
 - Tools: `VsCode`, `Markdown`
